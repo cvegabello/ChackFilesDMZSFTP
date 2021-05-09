@@ -1,0 +1,13 @@
+/checkFilesDmzSftp/*.vbproj
+/checkFilesDmzSftp/*.vbproj.user
+/checkFilesDmzSftp/My Project/
+/checkFilesDmzSftp/bin/
+/checkFilesDmzSftp/Resources/
+/checkFilesDmzSftp/obj/
+/checkFilesDmzSftp/*.ico
+/checkFilesDmzSftp/*.png
+/checkFilesDmzSftp/*.gif
+/checkFilesDmzSftp/*.jpg
+/checkFilesDmzSftp/*.resx
+*.sln
+*.suo
